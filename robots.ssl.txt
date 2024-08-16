@@ -1,0 +1,12 @@
+User-agent: *
+Allow: /blog
+
+Disallow: /blog/articles/ones-news*
+Disallow: /blog/articles/efficient-rd*
+Disallow: /blog/articles/customer-cases*
+Disallow: /blog/articles/industry-insights*
+Disallow: /blog/articles/product-guide*
+
+Sitemap: https://ones.cn/sitemap.xml
+Sitemap: https://ones.cn/blog/sitemap_index.xml
+
